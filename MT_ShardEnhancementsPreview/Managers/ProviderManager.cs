@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MT_DataMiningExample.Managers
+namespace MT_ShardEnhancementsPreview.Managers
 {
     // Attention!
     // Shamelessly stolen from Trainworks.
